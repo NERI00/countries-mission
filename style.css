@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    
+}
+
+h1 {
+    text-align: center;
+}
+
+th {
+    width: 50%;
+}
+
+input{
+    text-align: center;
+}
+
+
+.main-form {
+    margin: auto;
+    width: 80vw;
+    text-align: center;
+}
+
+button {
+    width: auto;
+}
